@@ -2,8 +2,11 @@
 Name: TodoMatric - Task manager project
 <h3>Install VS Code </h3>
 Download: Go to the official Visual Studio Code and download the installer appropriate for your operating system (Windows, macOS, or Linux).
+<br>
 Extensions (recommended): Visual Studio Code has a vast extension ecosystem that allows you to customize and enhance your development experience. You can install extensions for various programming languages, frameworks, themes, and more. For specific this project Install React/Redux and Tailwind CSS IntelliSense.
+<br>
 After that Download Install: Go to the official Node.js website at nodejs.org and download the installer appropriate for your operating system (Windows, macOS, or Linux). After installation, open a command prompt (Windows) or terminal (macOS/Linux) and run the following commands to verify that Node.js and npm (Node Package Manager) are installed .
+<br>
 These are the commands to check if installation is done or not: 
 1) node -v 
 2) npm -v

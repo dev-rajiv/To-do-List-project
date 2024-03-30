@@ -1,2 +1,3 @@
 # To-do-List-project
-TodoMatric - Task manager project
+Name: TodoMatric - Task manager project
+<h1>Install VS Code </h1>

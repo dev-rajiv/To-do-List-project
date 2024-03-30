@@ -1,6 +1,6 @@
 # To-do-List-project
-Name: TodoMatric - Task manager project
-<h3>Install VS Code </h3>
+<h2>Name: TodoMatric - Task manager project<h2>
+<h4>Install VS Code </h4>
 <br>
 <b>Download:</b> Go to the official Visual Studio Code and download the installer appropriate for your operating system (Windows, macOS, or Linux).
 <br>
@@ -29,5 +29,6 @@ firstly,
 <li>Then go thorugh Tailwind documentation for intializing: https://tailwindcss.com/docs/configuration</li>
 <li>Just follows these steps for configuring Tailwind CSS.</li>
  </ul>
-<br>
 But probably you can run this only with the help of VS Code and Node Package Manager (npm).
+<br>
+<h4>Author:</h4> dev-rajiv 
